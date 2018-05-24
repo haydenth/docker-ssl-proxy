@@ -33,4 +33,4 @@ The certificate generator will check on existing ``key.pem`` and abort.
 ## Docker Hub Image
 
 You can get the publicly available docker image at the following location:
-[docker-ssl-proxy](https://registry.hub.docker.com/u/fsouza/docker-ssl-proxy/).
+[docker-ssl-proxy](https://registry.hub.docker.com/u/haydenth/docker-ssl-proxy/).
